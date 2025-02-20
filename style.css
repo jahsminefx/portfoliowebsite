@@ -113,8 +113,22 @@ footer {
     padding: 20px;
 }
 
+.workb {
+    color: fff;
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+}
 
+h2 {
+    color: #f5a623;
+    text-align: left;
+    margin-left: 380px;
+}
 
+P {
+    color: #fff;
+}
 /* ======= RESPONSIVE DESIGN ======= */
 
 /* 📱 Mobile Devices (max-width: 768px) */
